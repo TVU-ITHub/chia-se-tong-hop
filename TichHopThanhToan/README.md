@@ -12,7 +12,7 @@
 ### Giới thiệu
 SePay là công cụ giúp bạn chia sẻ biến động số dư ngân hàng. Tự xác thực thanh toán cho ứng dụng bán hàng khi khách chuyển khoản. SePay có thể gọi WebHooks/ API đến ứng dụng bán hàng của bạn để xác thực thanh toán. Việc này giúp tự động hóa thanh toán 100% mà không cần nhân sự kiểm tra giao dịch.
 
-<img align="center" src="images/sepay.png" width="500"> 
+<img align="center" src="images/sepay.png" width="80%"> 
 
 - **Tài liệu:** https://docs.sepay.vn/
 
