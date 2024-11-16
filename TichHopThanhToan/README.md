@@ -1,6 +1,6 @@
 # Một số cổng thanh toán online và ví dụ
 
-![Payment Gateway](images/banner.jpg)
+<img align="center" src="images/banner.jpg" width="100%"> 
 
 ## 🔎 Các cổng thanh toán online phổ biến
 1. [Cổng thanh toán SePay](#1-Cổng-thanh-toán-SePay)
@@ -12,7 +12,7 @@
 ### Giới thiệu
 SePay là công cụ giúp bạn chia sẻ biến động số dư ngân hàng. Tự xác thực thanh toán cho ứng dụng bán hàng khi khách chuyển khoản. SePay có thể gọi WebHooks/ API đến ứng dụng bán hàng của bạn để xác thực thanh toán. Việc này giúp tự động hóa thanh toán 100% mà không cần nhân sự kiểm tra giao dịch.
 
-![Dashboard Sepay](images/sepay.png)
+<img align="center" src="images/sepay.png" width="500"> 
 
 - **Tài liệu:** https://docs.sepay.vn/
 
