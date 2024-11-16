@@ -1,4 +1,4 @@
-# Một số cổng thanh toán online và ví dụ
+# Giới thiệu một số cổng thanh toán online và Ví dụ
 
 <img align="center" src="images/banner.jpg" width="100%"> 
 
